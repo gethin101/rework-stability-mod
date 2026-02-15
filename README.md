@@ -54,5 +54,5 @@ I will likely program this in CircuitPython as I am relatively familiar with it.
 
 
 
-KW11‑3Z lever microswitch?
+
 
