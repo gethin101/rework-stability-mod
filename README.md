@@ -1,9 +1,6 @@
 # Custom A1 Mini Camera Systen
 
-This is my custom camera system design for the Bambu lab A1 Mini where I will use custom G-code to program the nozzle to tap into a camera switch after each layer of print. 
-I will use a Raspberry Pi Pico to detect the switch through a GPIO pin and send a keyboard shortcut to my computer as a HID device. My computer will then take a frame from the camera, by either taking a screenshot of the webcam interface or by using custom software to control the camera and take a photo.
-After each photo is taken, the printer will continue printing and at the end I will have lots of photos I can edit together to make a smooth timelapse of my prints.
-
+This is my custom camera system design for the Bambu lab A1 Mini made during [Hackclub's Rework program](https://rework.hackclub.com/). It uses custom G-code, a raspberry pi pico, a Logitech C270 webcam and a camera clicker to record smooth timelapses of my prints.
 
 
 # How it will work:
@@ -31,7 +28,9 @@ Total = £ or $
 
 # Firmware
 
-I will need to program the Raspberry Pi Pico to recieve the signal from the clicker and to act as a HID keyboard to send keystrokes to my computer via USB cable. I will likely program this in CircuitPython as I am relatively familiar with it.
+I will need to program the Raspberry Pi Pico to recieve the signal from the clicker and to act as a HID keyboard to send keystrokes to my computer via USB cable. 
+
+I will likely program this in CircuitPython as I am relatively familiar with it.
 
 
 
