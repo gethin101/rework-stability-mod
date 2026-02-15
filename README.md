@@ -4,3 +4,8 @@
 - BOM in table format
 - Wiring diagram for your full project
 
+| Name | Use | Link | Price | US |
+|------|-----|------|-------|----|
+| 1 | 2 | [link]() | £ | $ |
+
+Total = £ or $
