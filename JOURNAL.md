@@ -13,10 +13,11 @@ You can see below a simple wiring diagram I put together showing how the compone
 
 
 
-# Journal 1: February 1 10:11pm - Added fan mounts
 
-[actual journal content - what did you do?]
+# Date -  title
 
-[pictures of what you worked on]
+[what'd a do]
 
-**Total time spent: 2h**
+[pics]
+
+**Total time spent: ?**
