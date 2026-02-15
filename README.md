@@ -7,9 +7,9 @@ It uses custom G-code, a raspberry pi pico WH, a Logitech C270 webcam and a KW11
 
 # How it works:
 
-- Nozzle moves to specific positon between layers through my custom G-code and taps into the microswitch 
-- Raspberry Pi Pico WH wired to the microswitch detects the signal and sends command to computer
-- Computer picks up the keybind and takes action (screenshot or take photo)
+- Nozzle moves to specific position between layers through my custom G-code and taps into the microswitch 
+- Raspberry Pi Pico WH wired to the microswitch detects the signal and sends keystrokes to computer
+- Computer picks up the keystrokes and takes action (screenshot or take photo)
 - Nozzle goes back to printing and repeats the process
 - I will edit the photos together to make the timelapse
 
