@@ -34,7 +34,7 @@ This is my first plan for the wiring and connections of all my components and ho
 | Raspberry Pi Pico 2H | Act as a HID to send signal to computer | [link](https://thepihut.com/products/raspberry-pi-pico-2?variant=54063366701441) | £5.40 | $7.36 |
 | 3D printed mounts | Secure clicker & camera | Printing legion | £? | $? |
 
-Total = £22.48 or $30.65
+Total = £27.38 or $37.34
 
 
 # Firmware
