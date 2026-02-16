@@ -38,13 +38,13 @@ As you can see, the button will be the microswitch that the printer toolhead wil
 # 17/2/26 -  Custom G-Code
 **Total time spent: 0.5h**
 
-Today, I learnt how to make the g-code for my a1 mini where the toolhead will tap into the switch which will be positioned on the far left of the X-axis between every layer.
+Today, I learnt how to make the G-code for my a1 mini where the toolhead will tap into the switch which will be positioned on the far left of the X-axis between every layer.
 You can see the code below:
 
 
 <img width="382" height="120" alt="image" src="https://github.com/user-attachments/assets/4d7f92a6-0082-45a7-b344-2437d0ffbb6a" />
 
-My G-code in bambu studio:
+My G-code in Bambu studio:
 
 <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/7f71817c-ad32-49c5-ad3b-8ba79284fc00" />
 
