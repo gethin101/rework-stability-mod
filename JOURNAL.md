@@ -12,6 +12,7 @@ You can see below a simple wiring diagram I put together showing how the compone
 **Total time spent: 2h**
 
 
+---
 
 # 16/2/26 -  Pico Keystrokes
 
