@@ -27,7 +27,8 @@ You can see below the first iteration of my CircuitPython program and how I plan
 <img width="500" height="800" alt="journal_2" src="https://github.com/user-attachments/assets/e317b664-7587-4a4b-8131-6c55a3cc4914" />
 
 
-**Total time spent: ?**
+
+**Total time spent: 1h**
 
 
 
