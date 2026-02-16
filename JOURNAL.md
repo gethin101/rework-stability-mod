@@ -26,7 +26,8 @@ You can see below the first iteration of my CircuitPython program and how I plan
 
 <img width="500" height="800" alt="journal_2" src="https://github.com/user-attachments/assets/e317b664-7587-4a4b-8131-6c55a3cc4914" />
 
-I temporarily removed the firmware from a pico I own and wrote a test code to mimic how my camera system will work.
+I temporarily removed the firmware from a pico I own and wrote a test code to mimic how my camera system will work. 
+As you can see, the button will be the microswitch that the printer toolhead will tap into and the pico will pick up on that and use adafruit-HID to send an **enter** keystroke to my laptop to take a photo with the camera.
 
 ![video](Assets/picoEnter_test.gif)
 
