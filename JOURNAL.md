@@ -26,6 +26,10 @@ You can see below the first iteration of my CircuitPython program and how I plan
 
 <img width="500" height="800" alt="journal_2" src="https://github.com/user-attachments/assets/e317b664-7587-4a4b-8131-6c55a3cc4914" />
 
+I temporarily removed the firmware from a pico I own and wrote a test code to mimic how my camera system will work.
+
+![video](Assets/picoEnter_test.gif)
+
 
 
 **Total time spent: 1h**
