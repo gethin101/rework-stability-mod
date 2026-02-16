@@ -1,5 +1,5 @@
 
-# 15/2/26 - First design & BOM
+# 15/2/26, 15:32pm - First design & BOM
 **Total time spent: 2h**
 
 Today, I thought about how I can make my camera system and started to plan out the design in the readme. I did some research on components and put together a rough BOM with links and prices (as you can see below).
@@ -16,7 +16,7 @@ You can see below a simple wiring diagram I put together showing how the compone
 
 ---
 
-# 16/2/26 -  Pico Keystrokes
+# 16/2/26, 14:28pm -  Pico Keystrokes
 **Total time spent: 2h**
 
 Today, I did some messing around with the camera app on my computer and realised that all I need the pi pico to do is send an **enter** keystroke to the computer while the camera app is open using the webcam and it will take and save all of the photos into a folder that I can view them all later and stitch together to make the timelapse.
@@ -35,7 +35,7 @@ As you can see, the button will be the microswitch that the printer toolhead wil
 
 ---
 
-# 17/2/26 -  Custom G-Code
+# 17/2/26, 11.27am -  Custom G-Code
 **Total time spent: 0.5h**
 
 Today, I learnt how to make the G-code for my a1 mini where the toolhead will tap into the switch which will be positioned on the far left of the X-axis between every layer.
