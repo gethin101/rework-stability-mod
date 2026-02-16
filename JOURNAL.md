@@ -17,7 +17,7 @@ You can see below a simple wiring diagram I put together showing how the compone
 ---
 
 # 16/2/26 -  Pico Keystrokes
-**Total time spent: 1h**
+**Total time spent: 2h**
 
 Today, I did some messing around with the camera app on my computer and realised that all I need the pi pico to do is send an **enter** keystroke to the computer while the camera app is open using the webcam and it will take and save all of the photos into a folder that I can view them all later and stitch together to make the timelapse.
 
@@ -33,8 +33,16 @@ As you can see, the button will be the microswitch that the printer toolhead wil
 
 ![video](Assets/picoEnter_test.gif)
 
+---
+
+# 17/2/26 -  Custom G-Code for switcg
+**Total time spent: 0.5h**
+
+Today, I learnt how to make the g-code for my a1 mini where the toolhead will tap into the switch which will be positioned on the far left of the X-axis between every layer.
+You can see the code below:
 
 
+<img width="255" height="80" alt="image" src="https://github.com/user-attachments/assets/4d7f92a6-0082-45a7-b344-2437d0ffbb6a" />
 
 
 
