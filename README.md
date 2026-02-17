@@ -1,6 +1,6 @@
 # Gethin's A1 Mini Camera Systen
 
-This is my custom camera system design for the Bambu lab A1 Mini made during [Hackclub's Rework program](https://rework.hackclub.com/). 
+This is my custom camera system design for the Bambu lab A1 Mini designed and made during [Hackclub's Rework program](https://rework.hackclub.com/). 
 
 It uses custom G-code, a raspberry pi pico 2H, a Logitech C270 webcam and a KW11-3Z microswitch to record smooth timelapses of my prints.
 
